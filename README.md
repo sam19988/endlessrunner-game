@@ -1,2 +1,0 @@
-# endlessrunner-game
-
